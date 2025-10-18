@@ -1,6 +1,6 @@
 # Geospatial Data Analysis Lab
 
-by Oulaya Benani Dakhama, Ulysse Mace and Daniil Notkin
+by O. B. Dakhama, U. Mace, D. Notkin and Y. Su
 
 ## Goal
 
